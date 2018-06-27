@@ -1,2 +1,2 @@
 # ECSSGAN
-Extended Complexity Scene Saliency GAN
+Extended complexity scene saliency generative adversal network
